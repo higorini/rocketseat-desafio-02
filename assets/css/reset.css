@@ -1,0 +1,16 @@
+:root {
+  --header: #3f3d56;
+  --span: #ee24ff;
+  --text: #828282;
+  --strong: #3f3d56;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
